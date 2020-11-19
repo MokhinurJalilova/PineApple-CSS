@@ -1,0 +1,186 @@
+body, div {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  background-color: #f1f1f1;
+}
+
+.header {}
+
+.logo-div {
+  width: 960px;
+  height: 86px;
+  margin: 0 auto;
+
+}
+
+
+.menu-div {
+  width: 100%;
+  height: 28px;
+  background-image: url("menu.jpg");
+
+}
+
+.menu-content {
+  margin: 0 auto;
+  width: 960px;
+
+}
+
+
+.menu-list-div {
+  width: 900px;
+}
+
+.menu-ul {
+  list-style-type: none;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  padding-inline-start: 0;
+}
+
+.menyu-li {
+  display: inline-block;
+  padding: 5px 15px;
+
+}
+
+.menyu-li a {
+  text-decoration: none;
+  color: #998115;
+  font-size: 12px;
+  font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.conteiner img {
+  width: 280px;
+    height: 180px;
+  display: table;
+}
+
+.conteiner-content {
+  margin: 0 auto;
+  width: 960px;
+
+}
+
+.rasm {
+  width: 297px;
+  padding: 10px;
+  display: inline-block;
+  float: left;
+
+}
+.rasm a {
+  text-decoration: none;
+  color: #998115;
+  font-size: 15px;
+  font-style: italic;
+  line-height: 2;
+}
+.conteiner-content img {
+  border: 10px solid #c4c4c4
+}
+
+.yozuv {
+width:
+}
+
+.mega {
+ color: #b69917
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+  width: 100%;
+  height: 240px;
+  background-image: url("foot.jpg");
+  margin-top: 50px;
+  clear: both;
+}
+
+.foot-content {
+  margin: 0 auto;
+  width: 960px;
+  padding-top: 0;
+}
+
+.foot-ul {
+
+  list-style-type: none;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  padding-inline-start: 0;
+}
+
+.foot-li {}
+
+.foot-li a{
+  text-decoration: none;
+  color: #998115;
+  font-size: 12px;
+  font-family: sans-serif;
+}
+
+.foot-chap {
+  width: 240px;
+  height:auto;
+  float: left;
+}
+
+.foot-chapp {
+  width: 240px;
+  height: auto;
+  float: left;
+
+}
+
+.foot-ongg {
+  width: 240px;
+  padding-top: 0;
+  float: left;
+}
+
+.foot-ong {
+  width: 240px;
+  height: auto;
+  float: left;
+}
+
+.silka {
+  background-color: #1c1c1c;
+  width: 760px;
+}
+
+.silka
